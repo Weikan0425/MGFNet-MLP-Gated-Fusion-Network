@@ -1,5 +1,7 @@
 # MGFNet-MLP-Gated-Fusion-Network
-A Deep-Learning method for optical and SAR semantic segmentation
+A Deep-Learning method for optical and SAR semantic segmentation 
+
+- JAG: Under Review
 
 ![图片alt](MGF.bmp)
 
