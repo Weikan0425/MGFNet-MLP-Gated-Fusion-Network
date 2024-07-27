@@ -59,6 +59,6 @@ $ python -m torch.distributed.launch --nproc_per_node=2 --use_env scripts/train.
 $ python scripts/val_unet.py --cfg configs/CONFIG_FILE.yaml
 ```
 4. __Links__:
-- YESeg-OPT-SAR: [](https://github.com/yeyuanxin110/YESeg-OPT-SAR/)
-- DDHRNet Datasets: [](https://github.com/BlackSmithM/DDHRNet)
+- YESeg-OPT-SAR: [https://github.com/yeyuanxin110/YESeg-OPT-SAR/](https://github.com/yeyuanxin110/YESeg-OPT-SAR/)
+- DDHRNet Datasets: [https://github.com/BlackSmithM/DDHRNet](https://github.com/BlackSmithM/DDHRNet)
 ### 
